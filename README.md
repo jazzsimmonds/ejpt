@@ -1,7 +1,10 @@
 # eJPT Cheatsheet
 
 **exam prep**
+# Table of Contents
 
+    ```
+</details>
 # Enumuration
 
 ## MySQL
