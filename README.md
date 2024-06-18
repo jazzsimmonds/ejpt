@@ -8,9 +8,8 @@
 
 <details>
 <summary>Metaploit</summary>
-Metaploit
     
-    ```powershell
+    ```
     auxiliary/scanner/mysql/mysql_schemadump
     ```
 </details>
