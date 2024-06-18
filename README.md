@@ -8,9 +8,11 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 
 ## MySQL
 <details>
-<summary>Metaploit</summary>
+<summary>MySQL</summary>
     
-    ```
+    ```Connect
+    mysql -h <ip address> -u <username>
+    ```Query
     show databases;
     show tables;
     SELECT * FROM table;
