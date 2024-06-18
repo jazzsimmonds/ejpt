@@ -2,9 +2,8 @@
 
 **exam prep**
 # Table of Contents
+https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 
-    ```
-</details>
 # Enumuration
 
 ## MySQL
