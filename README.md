@@ -27,6 +27,7 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
     
     ```
     auxiliary/scanner/mysql/mysql_schemadump
+    auxiliary/scanner/mysql/mysql_writable_dirs
     ```
 </details>
 
