@@ -4,9 +4,11 @@
 # Table of Contents
 https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 
-# Enumuration
-
-## MySQL
+# Assessment Methodologies
+## Information Gathering
+## Footprinting and Scanning
+## Enumuration
+### MySQL
 <details>
 <summary>MySQL</summary>
     
@@ -35,3 +37,5 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 `tree /F`
 
 </aside>
+
+## Vulnerability Assessment
