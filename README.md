@@ -40,6 +40,7 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 
 <details>
 <summary>nmap</summary>
+    
     ```scripts
     --script=mysql-empty-password ~ check for anonymous login
     ```
