@@ -12,10 +12,12 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
     
     ```Connect
     mysql -h <ip address> -u <username>
+    -p ~ password login
     ```Query
-    show databases;
-    show tables;
-    SELECT * FROM table;
+    > SHOW databases;
+    > SHOW tables FROM databases;
+    > USE database;
+    > SELECT * FROM table;
     ```
 </details>
 <details>
