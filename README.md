@@ -42,7 +42,8 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 <summary>nmap</summary>
     
     ```scripts
-    --script=mysql-empty-password ~ check for anonymous login
+    Check for anonymous login: --script=mysql-empty-password 
+    Check if “InteractiveClient” capability is supported: --script=mysql-info
     ```
 </details>
 <aside>
