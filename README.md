@@ -44,6 +44,7 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
     ```scripts
     Check for anonymous login: --script=mysql-empty-password 
     Check if “InteractiveClient” capability is supported: --script=mysql-info
+    Enumurate users: --script=mysql-users --script-args="mysqluser='root',mysqlpass=''"
     ```
 </details>
 <aside>
