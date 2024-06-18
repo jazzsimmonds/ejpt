@@ -52,16 +52,14 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
     Enumurate users: --script=mysql-users --script-args="mysqluser='root',mysqlpass=''"
     Enumurate DBs: --script=mysql-databases --script-args="mysqluser='root',mysqlpass=''" 
     Find Data Dir: --script=mysql-variables --script-args="mysqluser='root',mysqlpass=''" 
-    Check if file privs can be granted for non-admin acc: p --script=mysql-audit --script-args
-"mysql-audit.username='root',mysql-audit.password='',mysql-audit.filename='/usr/share/nmap/n
+    Check if file privs can be granted for non-admin acc: p --script=mysql-audit --script-args="mysql-audit.username='root',mysql-audit.password='',mysql-audit.filename='/usr/share/nmap/n
 selib/data/mysql-cis.audit'"
     Dump user hashs: --script mysql-dump-hashes --script-args="username='root',password=''"
     Find number of records stored in table: --script=mysql-query --script-args="query='select count(*) from
 books.authors;',username='root',password=''"
 
     ```Example
-     nmap --script=mysql-users --script-args="mysqluser='root',mysqlpass=''" -p 3306
-192.71.145.3
+     nmap --script=mysql-users --script-args="mysqluser='root',mysqlpass=''" -p 3306 192.71.145.3
     ```
 </details>
 <aside>
