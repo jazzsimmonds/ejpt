@@ -7,7 +7,15 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 # Enumuration
 
 ## MySQL
-
+<details>
+<summary>Metaploit</summary>
+    
+    ```
+    show databases;
+    show tables;
+    SELECT * FROM table;
+    ```
+</details>
 <details>
 <summary>Metaploit</summary>
     
