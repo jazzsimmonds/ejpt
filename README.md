@@ -9,6 +9,7 @@ https://github.com/jazzsimmonds/ejpt/blob/main/README.md#mysql
 ## Footprinting and Scanning
 ## Enumuration
 ### MySQL
+💡 Port 3306
 <details>
 <summary>MySQL</summary>
     
